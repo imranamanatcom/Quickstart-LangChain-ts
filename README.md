@@ -41,7 +41,7 @@ LANGSMITH_TRACING=true
 LANGSMITH_PROJECT=lc-essentials
 
 # If you are on the EU instance:
-LANGSMITH_ENDPOINT=https://eu.api.smith.langchain.com
+LANGSMITH_ENDPOINT=https://eu.api.smith.langchain.com // this is a link of langchain server
 
 
 
